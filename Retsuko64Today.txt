@@ -1,0 +1,4 @@
+Breakfast: Sandwich
+Lunch: chicken and rice
+Snack: orange
+Dinner: tuna salad
